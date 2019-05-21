@@ -1,0 +1,16 @@
+{
+  "name": "react-figma-image",
+  "version": "0.0.1",
+  "description": "React-component for rapidly protyping with assets from Figma.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "figma",
+    "react",
+    "design"
+  ],
+  "author": "online@lily.digital",
+  "license": "MIT"
+}
